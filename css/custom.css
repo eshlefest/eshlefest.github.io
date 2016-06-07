@@ -1,4 +1,9 @@
 
+.navbar {
+	background: #233140;
+
+}
+
 header {
 	background: #2C3E50;
 	
@@ -13,4 +18,25 @@ header .container {
 .navbar-fixed-top {
 	padding: 0px;
 
+}
+
+.project-blue {
+	background: #2C3E50;
+	color:white;
+	
+}
+
+.project-white {
+	background: white;
+	color:#2C3E50;
+	
+}
+
+
+#portfolio .portfolio-item .portfolio-link .caption{
+	background:#2C3E50;
+	
+}
+#portfolio .portfolio-item .portfolio-link .caption:hover {
+  opacity: .95;
 }
