@@ -1,0 +1,16 @@
+
+header {
+	background: #2C3E50;
+	
+}
+
+header .container {
+    padding-top: 125px;
+    padding-bottom: 0px;
+
+}
+
+.navbar-fixed-top {
+	padding: 0px;
+
+}
