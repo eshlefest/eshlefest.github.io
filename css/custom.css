@@ -40,3 +40,7 @@ header .container {
 #portfolio .portfolio-item .portfolio-link .caption:hover {
   opacity: .95;
 }
+
+.project-image {
+	width:400px;
+}
