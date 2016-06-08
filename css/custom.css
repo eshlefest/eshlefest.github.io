@@ -42,7 +42,7 @@ header .container {
 }
 
 .project-image {
-	width:400px;
+	width:350px;
 }
 
 .large-image {
@@ -50,9 +50,19 @@ header .container {
 }
 .small-image {
 	width:350px;
-	margin-top:50px;
+	position:relative;
+	top:70px;
+	left:-50px;
 }
 
 .311-image {
 	margin-top:50px;
+}
+.worm-gif {
+	height:50px;
+	float:left;
+	position:relative;
+	top:20px;
+
+
 }
