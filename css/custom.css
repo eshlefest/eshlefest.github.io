@@ -44,3 +44,15 @@ header .container {
 .project-image {
 	width:400px;
 }
+
+.large-image {
+	width:600px;
+}
+.small-image {
+	width:350px;
+	margin-top:50px;
+}
+
+.311-image {
+	margin-top:50px;
+}
